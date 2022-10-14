@@ -3,3 +3,13 @@ C:\Users\User\Desktop\C#\Homework_Seminar_3\Exersise21\obj\Debug\net6.0\Exersise
 C:\Users\User\Desktop\C#\Homework_Seminar_3\Exersise21\obj\Debug\net6.0\Exersise21.AssemblyInfoInputs.cache
 C:\Users\User\Desktop\C#\Homework_Seminar_3\Exersise21\obj\Debug\net6.0\Exersise21.AssemblyInfo.cs
 C:\Users\User\Desktop\C#\Homework_Seminar_3\Exersise21\obj\Debug\net6.0\Exersise21.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#\Homework_Seminar_3\Exersise21\bin\Debug\net6.0\Exersise21.exe
+C:\Users\User\Desktop\C#\Homework_Seminar_3\Exersise21\bin\Debug\net6.0\Exersise21.deps.json
+C:\Users\User\Desktop\C#\Homework_Seminar_3\Exersise21\bin\Debug\net6.0\Exersise21.runtimeconfig.json
+C:\Users\User\Desktop\C#\Homework_Seminar_3\Exersise21\bin\Debug\net6.0\Exersise21.dll
+C:\Users\User\Desktop\C#\Homework_Seminar_3\Exersise21\bin\Debug\net6.0\Exersise21.pdb
+C:\Users\User\Desktop\C#\Homework_Seminar_3\Exersise21\obj\Debug\net6.0\Exersise21.dll
+C:\Users\User\Desktop\C#\Homework_Seminar_3\Exersise21\obj\Debug\net6.0\refint\Exersise21.dll
+C:\Users\User\Desktop\C#\Homework_Seminar_3\Exersise21\obj\Debug\net6.0\Exersise21.pdb
+C:\Users\User\Desktop\C#\Homework_Seminar_3\Exersise21\obj\Debug\net6.0\Exersise21.genruntimeconfig.cache
+C:\Users\User\Desktop\C#\Homework_Seminar_3\Exersise21\obj\Debug\net6.0\ref\Exersise21.dll
