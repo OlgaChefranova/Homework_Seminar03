@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\C#\Homework_Seminar_3\Exersice19\obj\Debug\net6.0\Exersice19.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C#\Homework_Seminar_3\Exersice19\obj\Debug\net6.0\Exersice19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C#\Homework_Seminar_3\Exersice19\obj\Debug\net6.0\Exersice19.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C#\Homework_Seminar_3\Exersice19\obj\Debug\net6.0\Exersice19.AssemblyInfo.cs
+C:\Users\User\Desktop\C#\Homework_Seminar_3\Exersice19\obj\Debug\net6.0\Exersice19.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#\Homework_Seminar_3\Exersice19\bin\Debug\net6.0\Exersice19.exe
+C:\Users\User\Desktop\C#\Homework_Seminar_3\Exersice19\bin\Debug\net6.0\Exersice19.deps.json
+C:\Users\User\Desktop\C#\Homework_Seminar_3\Exersice19\bin\Debug\net6.0\Exersice19.runtimeconfig.json
+C:\Users\User\Desktop\C#\Homework_Seminar_3\Exersice19\bin\Debug\net6.0\Exersice19.dll
+C:\Users\User\Desktop\C#\Homework_Seminar_3\Exersice19\bin\Debug\net6.0\Exersice19.pdb
+C:\Users\User\Desktop\C#\Homework_Seminar_3\Exersice19\obj\Debug\net6.0\Exersice19.dll
+C:\Users\User\Desktop\C#\Homework_Seminar_3\Exersice19\obj\Debug\net6.0\refint\Exersice19.dll
+C:\Users\User\Desktop\C#\Homework_Seminar_3\Exersice19\obj\Debug\net6.0\Exersice19.pdb
+C:\Users\User\Desktop\C#\Homework_Seminar_3\Exersice19\obj\Debug\net6.0\Exersice19.genruntimeconfig.cache
+C:\Users\User\Desktop\C#\Homework_Seminar_3\Exersice19\obj\Debug\net6.0\ref\Exersice19.dll
