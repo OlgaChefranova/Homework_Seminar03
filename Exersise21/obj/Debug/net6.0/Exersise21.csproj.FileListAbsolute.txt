@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\C#\Homework_Seminar_3\Exersise21\obj\Debug\net6.0\Exersise21.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C#\Homework_Seminar_3\Exersise21\obj\Debug\net6.0\Exersise21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C#\Homework_Seminar_3\Exersise21\obj\Debug\net6.0\Exersise21.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C#\Homework_Seminar_3\Exersise21\obj\Debug\net6.0\Exersise21.AssemblyInfo.cs
+C:\Users\User\Desktop\C#\Homework_Seminar_3\Exersise21\obj\Debug\net6.0\Exersise21.csproj.CoreCompileInputs.cache
